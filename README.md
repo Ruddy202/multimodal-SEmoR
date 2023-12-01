@@ -1,6 +1,6 @@
 # Multimodal Speech Emotion Recognition Using Modality-specific Self-Supervised Frameworks
 
-Link to the published article: [here] 
+Link to article coming soon: [here] 
 
 ## Preparation
 ### Dataset
@@ -23,14 +23,27 @@ After data processing:
  	* Ablation: includes concatenation files trained using different optimizers.
 
 ### Where to run the code: 
-The code can be executed on Google Colab, Kaggle, or create your own environment on your machine. 
+The code can be executed on Google Colab, Kaggle, or create your own environment on your machine.
+```
+The files most pertinent...
+.
+├── ...
+├── codes                    
+│       ├── Ablation          
+│   ├── Speech_Wav2vec
+|   ├── TextBERT
+|   ├── Mocap_Rotate_...         
+│   └── Concatenation_...                
+├── data
+└── Readme 
+```
 
 ## Reference
 
-Please refer to our article for more details.
+Please refer to our article for more details (Coming Soon).
 
-<pre> <p align="justify"> @INPROCEEDINGS{9520692,  
-	author={Patamia, Rutherford Agbeshi and 
+<pre> <p align="justify"><!-- @INPROCEEDINGS{9520692,  
+ 	author={Patamia, Rutherford Agbeshi and 
 	Jin, Wu and Acheampong, Kingsley Nketia and 
 	Sarpong, Kwabena and Tenagyei, Edwin Kwadwo},  
 	booktitle={2021 IEEE 2nd International Conference on Pattern Recognition and Machine Learning (PRML)},   
@@ -39,7 +52,7 @@ Please refer to our article for more details.
 	volume={},  
 	number={},  
 	pages={195-203},  
-	doi={10.1109/PRML52754.2021.9520692}} </p> </pre>
+	doi={10.1109/PRML52754.2021.9520692}} </p> </pre> -->
 
 
 
