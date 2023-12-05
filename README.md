@@ -40,7 +40,7 @@ The files most pertinent...
 
 ## Reference
 
-Please refer to our article for more details (Coming Soon).
+Please refer to our article for more details.
 
 <pre> <p align="justify">@misc{patamia2023multimodal,
       title={Multimodal Speech Emotion Recognition Using Modality-specific Self-Supervised Frameworks}, 
