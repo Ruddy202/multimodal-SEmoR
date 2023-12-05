@@ -1,6 +1,6 @@
 # Multimodal Speech Emotion Recognition Using Modality-specific Self-Supervised Frameworks
 
-Link to article coming soon: [here] 
+Link to article: [here](https://arxiv.org/abs/2312.01568)
 
 ## Preparation
 ### Dataset
@@ -42,17 +42,11 @@ The files most pertinent...
 
 Please refer to our article for more details (Coming Soon).
 
-<pre> <p align="justify"><!-- @INPROCEEDINGS{9520692,  
- 	author={Patamia, Rutherford Agbeshi and 
-	Jin, Wu and Acheampong, Kingsley Nketia and 
-	Sarpong, Kwabena and Tenagyei, Edwin Kwadwo},  
-	booktitle={2021 IEEE 2nd International Conference on Pattern Recognition and Machine Learning (PRML)},   
-	title={Transformer Based Multimodal Speech Emotion Recognition with Improved Neural Networks},   
-	year={2021},  
-	volume={},  
-	number={},  
-	pages={195-203},  
-	doi={10.1109/PRML52754.2021.9520692}} </p> </pre> -->
+<pre> <p align="justify">@misc{patamia2023multimodal,
+      title={Multimodal Speech Emotion Recognition Using Modality-specific Self-Supervised Frameworks}, 
+      author={Rutherford Agbeshi Patamia and Paulo E. Santos and Kingsley Nketia Acheampong and Favour Ekong and Kwabena Sarpong and She Kun},
+      year={2023}
+} </p> </pre>
 
 
 
